@@ -1,1 +1,4 @@
+
 this is a first python
+
+python is so easy
